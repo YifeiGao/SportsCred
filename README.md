@@ -114,8 +114,8 @@ Project was developed as part of CSCC01 Introduction to Software Engineering cou
 
 - [Kyle Song](https://github.com/KylSong)
 - [Ben Gavrilov](https://github.com/bengavrilov)
-- [Yifei Gao](https://github.com/YifeiGao)
+- [Yifei Gao](https://github.com/YifeiGao)(me)
 - [Kevin Zhu](https://github.com/kaiwen-z)
 - [Wisam Mohiuddin](https://github.com/wisam-m)
 - [Anand Karki](https://github.com/karkonium)
-- Sasha Voitovych (me)
+- Sasha Voitovych
